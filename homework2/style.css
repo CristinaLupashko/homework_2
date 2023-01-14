@@ -1,0 +1,18 @@
+table{
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid black;
+}
+.color1{
+   background-color: blue;
+}
+.color2{
+  background-color: mediumslateblue;
+}
+.color3{
+    background-color: mediumpurple;
+}
+.color4{
+    background-color: lightgray;
+}
